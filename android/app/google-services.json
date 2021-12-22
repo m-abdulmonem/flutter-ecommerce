@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565329209473",
+    "project_id": "e-commerce-e55ff",
+    "storage_bucket": "e-commerce-e55ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565329209473:android:6370250fde4ba70d14c580",
+        "android_client_info": {
+          "package_name": "com.mabdo.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565329209473-07dkmnneosmjo9gdqb7ph9o1asatmtmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mabdo.ecommerce",
+            "certificate_hash": "6bd762da3e9fea53831dc143cf858a8bd525bfef"
+          }
+        },
+        {
+          "client_id": "565329209473-cfn2gg50ldsre8s2dmb5qnf9orfr63m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwD5FGC_z8GuCN3TQBawZFbMv19Xn-REs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565329209473-cfn2gg50ldsre8s2dmb5qnf9orfr63m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
